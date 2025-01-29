@@ -51,7 +51,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 [Languages.en-us]
   languageName = "English"
   languageCode = "en-us"
-  contentDir = "content/en"
+  contentDir = "content/us"
   weight = 1
 
   [Languages.en-us.menu]
