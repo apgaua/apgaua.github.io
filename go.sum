@@ -1,2 +1,4 @@
 github.com/hugo-sid/hugo-blog-awesome v1.19.0 h1:mKI+aTvXiFY6XSV/4VHdUsn82sL72Vh9OuBbYh3wy8U=
 github.com/hugo-sid/hugo-blog-awesome v1.19.0/go.mod h1:3XVERF66wgQpTsruOajS5Swr+uvyTzov1acafNaqm1E=
+github.com/mfg92/hugo-shortcode-gallery v1.3.0 h1:7wiUUu7adN3JbcshZfZ+Q0ZLDilPoGkquoor0ZcdJVU=
+github.com/mfg92/hugo-shortcode-gallery v1.3.0/go.mod h1:SEdbeBGSMX2lP+4nCqqy9AyTWWktUMWXYnR3r1l01Rw=
