@@ -1,5 +1,5 @@
 ---
-title: Explicando kubectl
+title: Unravelling kubectl
 date: 2025-01-29
 author: Apgaua S
 description: Resumo de como o kubectl interage com o kube-apiserver, englobando autenticação em multi contextos e k9s.
