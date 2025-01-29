@@ -1,4 +1,6 @@
 baseURL = 'https://apgaua.github.io'
 languageCode = 'pt-br'
 title = 'Meus estudos e ideias'
-theme = "hugo-blog-awesome"
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
