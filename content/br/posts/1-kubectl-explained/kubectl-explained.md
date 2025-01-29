@@ -10,7 +10,8 @@ isStarred: true
 
 O que é kubectl
 
-O que é kube-apiserver
+O que é kubectl
+kubectl é a principal ferramenta linha de comando de administração do kubernetes. 
 
 ![kubeapiserver](kubeproxy.png)
 
