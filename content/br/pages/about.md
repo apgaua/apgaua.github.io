@@ -10,6 +10,7 @@ Criei este espaço para documentar estudos e idéias.
 
 Algumas de minhas certificações:
 
+<img src="https://github.com/apgaua/apgaua.github.io/content/br/pages/images/aws_cp.png">
 
 <!--![LPIC1](lpic1.png)
 
@@ -22,3 +23,6 @@ Algumas de minhas certificações:
 ![AWSSOP](awssysop.png)
 
 ![TERRAFORM](terraform.png)-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNTE1MTM4MzVdfQ==
+-->
