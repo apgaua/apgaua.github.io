@@ -10,13 +10,6 @@ Criei este espaço para documentar estudos e idéias.
 
 Algumas de minhas certificações:
 
-<img src="/pages/images/aws_cp.png">
-<img src="/pages/images/aws_saa.png">
-<img src="/pages/images/awssysop.png">
-<img src="/pages/images/lpic1.png">
-<img src="/pages/images/lpic2.png">
-<img src="/pages/images/terraform.png">
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjg1ODIyNF19
--->
+|<img src="/pages/images/aws_cp.png">|<img src="/pages/images/aws_saa.png">|<img src="/pages/images/awssysop.png">|
+|--|--|--|
+|<img src="/pages/images/lpic1.png">|<img src="/pages/images/lpic2.png">|<img src="/pages/images/terraform.png">|
