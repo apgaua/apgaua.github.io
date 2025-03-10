@@ -5,10 +5,10 @@ author: Apgaua
 ---
 
 Olá, seja bem vindo, sou Apgaua Sousa.
-Aqui falo sobre Computação em nuvem, AWS, Linux, IAC e Containers.
-Criei este espaço para documentar estudos e idéias.
+Aqui falo sobre Computação em nuvem, AWS, Linux, IAC e Containers.<br>
+Criei este espaço para compartilhar alguns assuntos que acho interessante durante meus estudos.
 
-Algumas de minhas certificações:
+Estas são algumas de minhas certificações técnicas:
 
 |<img src="/pages/images/aws_cp.png">|<img src="/pages/images/aws_saa.png">|<img src="/pages/images/awssysop.png">|
 |--|--|--|
